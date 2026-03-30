@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"F:\\\\【004】PythonWork（暂不更新）\\\\face_dectecion\\\\deepface_2025\" && rm -f detect_pic.py detecct_camera.py detect_video.py)",
+      "Bash(cd \"F:\\\\【004】PythonWork（暂不更新）\\\\face_dectecion\\\\deepface_2025\" && rm -rf web_demo)",
+      "Bash(chmod +x \"F:\\\\【004】PythonWork（暂不更新）\\\\face_dectecion\\\\deepface_2025\\\\启动系统.sh\")",
+      "Bash(cd \"F:\\\\【004】PythonWork（暂不更新）\\\\face_dectecion\\\\deepface_2025\" && python 检查项目.py)",
+      "Bash(cd \"F:\\\\【004】PythonWork（暂不更新）\\\\face_dectecion\\\\deepface_2025\" && python 检查项目.py 2>&1 | head -50)",
+      "Bash(cd \"F:\\\\【004】PythonWork（暂不更新）\\\\face_dectecion\\\\deepface_2025\" && rm \"项目说明.md\" \"安全说明.md\" \"项目总结.md\" \"文件清单.md\")"
+    ]
+  }
+}
